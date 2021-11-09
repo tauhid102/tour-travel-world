@@ -1,0 +1,17 @@
+ul{
+    padding: 0;
+}
+.social-link ul{
+    padding-left: 0;
+    padding: 0;
+}
+.social-link li{
+    list-style: none;
+    display: inline;
+    margin-right: 10px;
+    font-size: 30px;
+}
+.social-link li:hover{
+    color: #DC3545;
+    cursor: pointer;
+}
